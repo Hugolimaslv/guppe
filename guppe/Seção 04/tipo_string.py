@@ -29,3 +29,6 @@ print(nome[::-1])
 a = nome.split()
 print(a)
 print(nome.replace('i', 'in'))
+texto = 'socorram me subino onibus em marrocos'
+print(texto)
+print(texto[::-1])
